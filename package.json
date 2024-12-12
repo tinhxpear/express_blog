@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinhxpear/express_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "blog"
+  ],
+  "author": "tinhxpear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinhxpear/express_blog/issues"
+  },
+  "homepage": "https://github.com/tinhxpear/express_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
